@@ -1,0 +1,156 @@
+CEC-CS-18-C26 	31-01-2020
+Jalena Mathew
+
+
+--------------------------------
+#1: Sort a text file
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	sort -dr sort.txt > sorted.txt
+
+
+Input: 
+---------------
+
+	# Unsorted file 
+	sort.txt 	
+
+--------------------------------
+Output: 
+
+	# Sorted file
+	sorted.txt
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+#2: Viewing the contetns of a file
+
+Command/Shell script/Program name
+---------------------------------
+	cat abc.txt
+	nano abc.txt
+	gedit abc.txt
+
+
+Input: 
+---------------
+
+	# file created using alias ll='ls -al'...ll > abc.txt
+	abc.txt	
+
+--------------------------------
+Output: 
+
+	#displayed content of the file
+
+	#view and edit in the terminal
+
+	#open the file in gedit
+
+-------------------
+Remarks if any:
+
+
+-------------------------------------		
+-------------------------------------
+
+#3: Familiarisation of Miscellaneous commands
+
+Command/Shell script/Program name
+---------------------------------
+
+	wget 192.168.0.30
+	whoami 
+	alias ll='ls -al'
+	ls
+
+--------------------------------
+Output: 
+	
+	# wget fetches the HTML file
+	index.html	
+	
+	# whoami prints the current user
+
+	#instructs the shell to replace ls -al with ll while executing the commands
+
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+
+#4: Exploring Further
+
+Command/Shell script/Program name
+---------------------------------
+
+	ps
+	ps aux	
+	kill -9 7478	
+	service apache start		
+	ping 192.168.0.30
+	ifconfig -a	
+
+--------------------------------
+Output: 
+	
+	# ps command prints the current processes.
+	
+	# The kill command kills the process with PID 7478.	
+	
+	# The Service command was meant to start the apache service But user didn't have the privileges
+	
+	# The ping command is used to check the response of a server. It works well with an IP in the LAN.
+
+	#displayed the status of all the currently active interfaces, even if down 
+	
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+
+#5: Cut a text file
+
+Command/Shell script/Program name
+---------------------------------
+
+	cut -f3 cut.txt	
+
+--------------------------------
+Input: 
+	
+	# numbers with tab as field separator
+	cut.txt
+
+--------------------------------
+Output:
+
+	#first three numbers
+	8	6	4
+	
+-------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+
