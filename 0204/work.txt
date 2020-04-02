@@ -1,0 +1,24 @@
+Script started on 2020-04-02 22:13:28+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ gedit helloworld.pl
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ perl helloworld.pl
+Hi this is ceccs18c26!!
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ gedit c[Ksimple_calc.pl
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ perl simple_calc.pl
+~~~~~Simple Calculator~~~~~
+Enter the two numbers and the operator to get the result
+<Ctrl>-D to Terminate 
+
+2
+3
+*
+
+Result of 2 * 3 = 6
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ perl simple_calc.pl[1@gedit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ gedit report.txt
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ gedit helloworld.pl
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ gedit helloworld.pl[3Preport.txtsimple_calc.pl[1Pperl[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pperl helloworld.pl
+Hi this is ceccs18c26!!
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/0204[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/0204[00m$ exit
+exit
+
+Script done on 2020-04-02 22:41:13+05:30 [COMMAND_EXIT_CODE="0"]

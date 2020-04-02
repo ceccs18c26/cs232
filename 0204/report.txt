@@ -1,0 +1,39 @@
+CEC CS 18 C26 02-04-2020
+JALENA MATHEW
+
+--------------------------------
+#1: Perl (t8) (2)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+	# Hello world program
+	/perl/helloworld.pl	
+
+	# Program of a simple calculator
+
+--------------------------------
+Output: 
+	
+	# Output of helloworld.pl
+	Hi this is ceccs18c26
+
+	# Output of simple_calc.pl
+	~~~~~Simple Calculator~~~~~
+	Enter the two numbers and the operator to get the result
+	<Ctrl>-D to Terminate 
+
+	2
+	3
+	*
+
+	Result of 2 * 3 = 6
+
+-------------------
+Remarks if any:
+
+
+
+-------------------------------------
+-------------------------------------
