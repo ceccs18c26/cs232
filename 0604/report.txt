@@ -1,0 +1,46 @@
+CEC CS 18 C14   30-03-20
+
+DEEPA MARIAM GEORGE
+
+
+--------------------------------
+#1: Aim/task
+--------------------------------
+
+   Setting up ftp and http server (t7)
+
+---------------------------------
+Command/Shell script/Program name
+
+     #To install ftp server:
+      sudo apt-get install vsftpd
+
+     #To edit ftp server configuration:
+      sudo nano /etc/vsftpd.conf
+  
+     #To connect ftp on local server:
+      ftp localhost
+
+     #To install apache2:
+      sudo apt-get install apache2
+
+     #To edit appache2:
+      sudo nano /var/www/html/index.html
+
+
+---------------------------------
+Output
+
+    #ftp server is available at :
+        192.168.42.6
+
+    #Apache server :
+        screenshot attached (Screenshot.png)
+
+
+--------------------------------------
+Remarks if any:
+
+
+-------------------------------------
+-------------------------------------
