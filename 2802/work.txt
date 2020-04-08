@@ -1,0 +1,29 @@
+Script started on Friday 28 February 2020 12:48:03 PM IST
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ http://192.168.0.30/cs18c/cs18c00
+bash: http://192.168.0.30/cs18c/cs18c00: No such file or directory
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ http://192.168.0.30/cs18c/cs18c00whttp://192.168.0.30/cs18c/cs18c00ghttp://192.168.0.30/cs18c/cs18c00ehttp://192.168.0.30/cs18c/cs18c00thttp://192.168.0.30/cs18c/cs18c00 [A]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ [C[C[C[C http://192.168.0.30/cs18c/cs18c000[A]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ [C[C[C[C[C
+
+--2020-02-28 12:49:06--  http://192.168.0.30/cs18c/cs18c00
+Connecting to 192.168.0.2:3128... connected.
+Proxy request sent, awaiting response... 301 Moved Permanently
+Location: http://192.168.0.30/cs18c/cs18c00/ [following]
+--2020-02-28 12:49:06--  http://192.168.0.30/cs18c/cs18c00/
+Reusing existing connection to 192.168.0.2:3128.
+Proxy request sent, awaiting response... 200 OK
+Length: 2332 (2.3K) [text/html]
+Saving to: ‘cs18c00’
+
+cs18c00               0%[                    ]       0  --.-KB/s               cs18c00             100%[===================>]   2.28K  --.-KB/s    in 0s      
+
+2020-02-28 12:49:06 (112 MB/s) - ‘cs18c00’ saved [2332/2332]
+
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ gedit script.sh
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ chmod +x script.sh
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ ./script.sh
+[3;J[H[2Jsed: can't read nn.txt: No such file or directory
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ ./script.shchmod +x script.sh[3Pgedit[C[C[C[C[C[C[C[C[C[C[3@chmod +x[C[C[C[C[C[C[C[C[C[C
+]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ chmod +x script.sh[7P./script.sh
+[3;J[H[2J]0;ceclab2@ceclab2: ~/ceccs18c26/cs232/280220[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c26/cs232/280220[00m$ exit
+exit
+
+Script done on Friday 28 February 2020 12:55:40 PM IST
