@@ -1,0 +1,128 @@
+CEC-CS-18-C26 	17-02-2020
+Jalena Mathew
+
+
+--------------------------------
+#1: SSH
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	
+	ssh username@host
+
+	
+
+--------------------------------
+Result: 
+
+	The ssh command provides a secure encrypted connection between two hosts over an insecure network. 
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+--------------------------------
+#2: RSYNC
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	
+	rsync local_path username@host:destination
+
+	
+
+--------------------------------
+Result: 
+
+	Rsync is a fast and extraordinarily versatile file copying tool. Rsync is used to sync files between a localfolder and a remote folder ( only changes will be uploaded to the server )
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+
+--------------------------------
+#3: SCP
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	
+	scp local_path username@host:destination
+
+	
+--------------------------------
+Result: 
+
+	scp is a program for copying files between computers. It uses the SSH protocol.
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+--------------------------------
+#4: SFTP
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	
+	
+	ftp/sftp username@ip_adress
+	put
+	get
+	rm
+
+	
+--------------------------------
+Result: 
+
+	
+	sftp used to transfer file between local pc and server
+	put - used to put files to the server
+	get - used to download files from the server
+	rm- used to remove file/folders
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+
+
+
+
+
