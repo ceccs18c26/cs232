@@ -1,0 +1,52 @@
+CEC-CS-18-C26 	07-02-2020
+Jalena Mathew
+
+
+--------------------------------
+#1: Networking tasks (t3)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	
+
+
+Input: 
+---------------
+
+	netstat -r
+	ifconfig -a
+	ifconfig enp1so 172.16.25.125 netmask 255.255.255.224 broadcast 172.16.25.63
+	route -n
+	route add -net 192.168.10.0 netmask 255.255.255.0 dev enp1s0
+	route add default gw 192.168.10.1
+	
+		
+
+--------------------------------
+Output: 
+
+	# netstat -r lists out all the network connections on a system
+	# ifconfig -a displays all available network interfaces
+	# ifconfig enp1so 172.16.25.125 netmask 255.255.255.224 broadcast 172.16.25.63 assigns an ip address, netmak and broadcast to interface enp1s0
+
+	# route -n displays kernal routing table
+	#route add adds a new route to the table
+	#route add default gw 192.168.10.1, a default gateway in this case
+
+	#echo "nameserver 1.1.1.1" >> /etc/resolv.conf to add 1.1.1.1 (1.1.1.1 is the DNS of Cloudflare) to system domain resolver congiguration 
+	
+
+-------------------
+Remarks if any:
+
+
+
+
+-------------------------------------
+-------------------------------------
+
+
+
+
