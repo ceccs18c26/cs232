@@ -1,0 +1,64 @@
+
+CEC CS 18 C26 13-04-2020
+
+JALENA MATHEW
+
+MAC Address:  04:d4:c4:df:f6:bf
+
+
+--------------------------------
+#1: Package management (t8)(1)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+
+	#Update local package
+	sudo apt-get update
+
+	#To update package that doesnt require package removal
+	sude aptitude safe-upgrade
+
+	#Showing if a package is installed
+	sudo aptitude show bar
+
+	#To install bar	
+	sudo apt-get install bar
+
+	#To install nmap
+	sudo aptitude install nmap
+
+	#To remove bar(excluding configuration)
+	sudo apt remove bar
+
+	#To remove nmap(including configuration)
+	sudo aptitude purge nmap
+
+	#To list the files installed by the package	
+	dpkg -L nmap
+
+	#To pipe out the output for the specific package
+	sudo dpkg -l | grep apache2
+	
+	#Tells which package installed a file	
+	dpkg -S /etc/host.conf 
+	
+	# List all installed packages
+	sudo apt list > pkg.txt
+
+
+	
+--------------------------------
+Output: 
+	
+	# List of installed packages
+	pkg.txt
+
+-------------------
+Remarks if any:
+	
+	
+
+-------------------------------------
+-------------------------------------
+
