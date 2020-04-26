@@ -1,0 +1,74 @@
+
+CEC CS 18 C26 14-04-2020
+JALENA MATHEW
+
+--------------------------------
+#1: LAMP STACK (t8.3)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	1. Install apache
+		
+		sudo apt-get update
+
+		#To install apache2
+		sudo apt-get install apache2
+	
+	2. MySql
+		
+		#To install MySQL (comes with default credentials)
+		sudo apt install mysql-server 
+
+		#For secure installation
+		sudo mysql_secure_installation 
+
+		#Login to mysql CLI 
+		sudo mysql 
+	
+	3. PHP
+	
+		apt-get update && apt-get upgrade 
+
+		#To install php with required modules
+		sudo apt install -y php libapache2-mod-php php-mysql
+
+		#To check PHP version
+		php -v
+
+		#Apache by default looks for index.html file. For web server to prefer PHP files over others, make Apache look for an index.php file first.  
+		sudo nano /etc/apache2/mods-enabled/dir.conf 
+
+		#To test PHP processing on web server
+		nano /var/www/html/info.php
+
+		nano /var/www/html/index.php
+
+		#To revome info.php
+		sudo rm /var/www/html/info.php 
+
+	
+
+Input: 
+---------------
+
+	#PHP files:
+		info.php
+		index.php
+	
+
+Output: 
+--------------------------------
+
+	#Screenshots:
+		info.png
+		index.png
+		
+	
+-------------------
+Remarks if any:
+
+	#Basically, installed a platform that allows to install most kinds of websites and web software on the Ubuntu 19.10 server.
+
+-------------------------------------
+-------------------------------------
