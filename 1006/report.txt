@@ -1,0 +1,56 @@
+CEC CS 18 C 26
+JALENA MATHEW
+
+10-06-2020
+--------------------------------
+#1: S6: 
+
+Shell script to implement a menu driven calculator with following functions 
+
+1.  Addition 
+2.  Subtraction 
+3.  Multiplication 
+4.  Division 
+5.  Modulus
+
+---------------------------------
+Command/Shell script/Program name
+
+	#Shell script:
+	calc.sh
+
+
+	#Modify permission
+	chmod +x calc.sh
+
+
+	#Run script
+	./calc.sh
+
+
+---------------------------------
+Output:
+
+Enter two numbers:
+12
+32
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+1
+Sum =44
+Press y to continue:
+
+
+-------------------
+Remarks if any:
+
+
+
+
+
+-------------------------------------
+-------------------------------------

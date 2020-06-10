@@ -1,0 +1,95 @@
+Script started on 2020-06-10 08:57:53+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ gedit calc.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ chmod +x x[Kcalc.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ ./calc.sh
+[H[2J[3JEnter two numbers:
+12
+23
+1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Modulus
+Enter your choice
+2
+Differnce = 0
+Press y to continue:
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ ./calc.shchmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ gedit calc.sh[4P./calc.shchmod +x calc.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ chmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C[4P./calc.sh
+[H[2J[3JEnter two numbers:
+12
+32
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+1
+Sum =44
+Press y to continue:
+
+./calc.sh: line 35: [: !=: unary operator expected
+./calc.sh: line 11: [: =: unary operator expected
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ ./calc.shchmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ gedit calc.sh[4P./calc.shchmod +x calc.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ chmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C[4P./calc.sh
+[H[2J[3JEnter two numbers:
+12
+32
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your ch
+1
+Sum =44
+Press y to continue:
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your ch
+
+Invalid ch
+Press y to continue:
+
+./calc.sh: line 35: [: !=: unary operator expected
+./calc.sh: line 11: [: =: unary operator expected
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ 
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ ./calc.shchmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ gedit calc.sh[4P./calc.shchmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C[3@chmod +x[C[C[C[C[C[C[C[C
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ chmod +x calc.sh[3Pgedit[C[C[C[C[C[C[C[C[4P./calc.sh
+[H[2J[3JEnter two numbers:
+12
+32
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+1
+Sum =44
+Press y to continue:
+y
+Enter two numbers:
+2
+3
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+Enter your choice
+2
+Differnce = -1
+Press y to continue:
+
+./calc.sh: line 35: [: !=: unary operator expected
+./calc.sh: line 8: [: =: unary operator expected
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ geit[K[Kdit report.txt
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/1006[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/1006[00m$ exit
+exit
+
+Script done on 2020-06-10 09:26:26+05:30 [COMMAND_EXIT_CODE="0"]
