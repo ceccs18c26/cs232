@@ -1,0 +1,268 @@
+Script started on 2020-05-25 22:02:33+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ gedit sysconf1.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ chmod +x sysconf1.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ ./sysconf1.sh
+Currently Logged User and their login name: jalena
+Current Shell : /bin/bash
+Home Directory: /home/jalena
+Operating System Type: linux-gnu
+Current Path Setting: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Current Working Directory:
+/home/jalena/FOSS/2505
+Number of users currently logged in:
+jalena
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ gedit sysconf2.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ chmod s[K+x sysconf2.sh
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ ./sysconf2.sh
+OS and version, release number, kernel version:
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 19.10
+Release:	19.10
+Codename:	eoan
+Kernel:5.3.0-18-generic
+*************************************************
+All available shells:
+# /etc/shells: valid login shells
+/bin/sh
+/bin/bash
+/usr/bin/bash
+/bin/rbash
+/usr/bin/rbash
+/bin/dash
+/usr/bin/dash
+*************************************************
+CPU information:
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   43 bits physical, 48 bits virtual
+CPU(s):                          8
+On-line CPU(s) list:             0-7
+Thread(s) per core:              2
+Core(s) per socket:              4
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       AuthenticAMD
+CPU family:                      23
+Model:                           24
+Model name:                      AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+Stepping:                        1
+Frequency boost:                 enabled
+CPU MHz:                         1221.523
+CPU max MHz:                     2100.0000
+CPU min MHz:                     1400.0000
+BogoMIPS:                        4191.83
+Virtualization:                  AMD-V
+L1d cache:                       128 KiB
+L1i cache:                       256 KiB
+L2 cache:                        2 MiB
+L3 cache:                        4 MiB
+NUMA node0 CPU(s):               0-7
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled v
+                                 ia prctl and seccomp
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user
+                                  pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full AMD retpoline, IBPB conditiona
+                                 l, STIBP disabled, RSB filling
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtr
+                                 r pge mca cmov pat pse36 clflush mmx fxsr sse s
+                                 se2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtsc
+                                 p lm constant_tsc rep_good nopl nonstop_tsc cpu
+                                 id extd_apicid aperfmperf pni pclmulqdq monitor
+                                  ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes 
+                                 xsave avx f16c rdrand lahf_lm cmp_legacy svm ex
+                                 tapic cr8_legacy abm sse4a misalignsse 3dnowpre
+                                 fetch osvw skinit wdt tce topoext perfctr_core 
+                                 perfctr_nb bpext perfctr_llc mwaitx cpb hw_psta
+                                 te sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2
+                                  smep bmi2 rdseed adx smap clflushopt sha_ni xs
+                                 aveopt xsavec xgetbv1 xsaves clzero irperf xsav
+                                 eerptr arat npt lbrv svm_lock nrip_save tsc_sca
+                                 le vmcb_clean flushbyasid decodeassists pausefi
+                                 lter pfthreshold avic v_vmsave_vmload vgif over
+                                 flow_recov succor smca
+*************************************************
+Memory information:
+              total        used        free      shared  buff/cache   available
+Mem:           7834        1448        5406           8         978        6125
+Swap:          2047           0        2047
+*************************************************
+Hard disk information:
+[sudo] password for jalena: 
+# dmidecode 3.2
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.1 present.
+# SMBIOS implementations newer than version 3.2.0 are not
+# fully supported by this version of dmidecode.
+
+Handle 0x000A, DMI type 16, 23 bytes
+Physical Memory Array
+	Location: System Board Or Motherboard
+	Use: System Memory
+	Error Correction Type: None
+	Maximum Capacity: 32 GB
+	Error Information Handle: 0x0009
+	Number Of Devices: 2
+
+Handle 0x0011, DMI type 17, 40 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x0010
+	Total Width: 64 bits
+	Data Width: 64 bits
+	Size: 8192 MB
+	Form Factor: SODIMM
+	Set: None
+	Locator: DIMM 0
+	Bank Locator: P0 CHANNEL A
+	Type: DDR4
+	Type Detail: Synchronous Unbuffered (Unregistered)
+	Speed: 2667 MT/s
+	Manufacturer: Samsung
+	Serial Number: 32C43836
+	Asset Tag: Not Specified
+	Part Number: M471A1K43DB1-CTD    
+	Rank: 1
+	Configured Memory Speed: 2400 MT/s
+	Minimum Voltage: 1.2 V
+	Maximum Voltage: 1.2 V
+	Configured Voltage: 1.2 V
+
+Handle 0x0014, DMI type 17, 40 bytes
+Memory Device
+	Array Handle: 0x000A
+	Error Information Handle: 0x0013
+	Total Width: Unknown
+	Data Width: Unknown
+	Size: No Module Installed
+	Form Factor: Unknown
+	Set: None
+	Locator: DIMM 0
+	Bank Locator: P0 CHANNEL B
+	Type: Unknown
+	Type Detail: Unknown
+	Speed: Unknown
+	Manufacturer: Unknown
+	Serial Number: Unknown
+	Asset Tag: Not Specified
+	Part Number: Unknown
+	Rank: Unknown
+	Configured Memory Speed: Unknown
+	Minimum Voltage: Unknown
+	Maximum Voltage: Unknown
+	Configured Voltage: Unknown
+
+*************************************************
+File system (Mounted):
+[1mDisk /dev/loop0: 14.77 MiB, 15466496 bytes, 30208 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop1: 149.93 MiB, 157192192 bytes, 307016 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop2: 2.45 MiB, 2555904 bytes, 4992 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop3: 956 KiB, 978944 bytes, 1912 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop4: 2.42 MiB, 2531328 bytes, 4944 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop5: 48.3 MiB, 50642944 bytes, 98912 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop6: 276 KiB, 282624 bytes, 552 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop7: 956 KiB, 978944 bytes, 1912 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/sda: 931.53 GiB, 1000204886016 bytes, 1953525168 sectors
+[0mDisk model: ST1000LM035-1RK1
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disklabel type: gpt
+Disk identifier: 8786F1A1-DE57-4484-81AC-99B1BD373FBA
+
+[1mDevice[0m     [1m     Start[0m [1m       End[0m [1m   Sectors[0m [1m  Size[0m [1mType[0m
+/dev/sda1        2048     534527     532480   260M EFI System
+/dev/sda2      534528     567295      32768    16M Microsoft reserved
+/dev/sda3      567296 1655698428 1655131133 789.2G Microsoft basic data
+/dev/sda4  1952192512 1953523711    1331200   650M Windows recovery environment
+/dev/sda5  1655699456 1952192511  296493056 141.4G Linux filesystem
+
+Partition table entries are not in disk order.
+
+
+[1mDisk /dev/loop8: 54.97 MiB, 57618432 bytes, 112536 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop9: 54.97 MiB, 57614336 bytes, 112528 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop10: 93.94 MiB, 98484224 bytes, 192352 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop11: 62.9 MiB, 65105920 bytes, 127160 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop12: 93.8 MiB, 98336768 bytes, 192064 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+
+
+[1mDisk /dev/loop13: 160.16 MiB, 167931904 bytes, 327992 sectors
+[0mUnits: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+*************************************************
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ gedit report.txt
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ gedit S4op.txt
+]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ gedit S5op.txt
+[K]0;jalena@jalena-TUF-Gaming-FX505DY-FX505DY: ~/FOSS/2505[01;32mjalena@jalena-TUF-Gaming-FX505DY-FX505DY[00m:[01;34m~/FOSS/2505[00m$ exit
+exit
+
+Script done on 2020-05-25 21:47:36+05:30 [COMMAND_EXIT_CODE="0"]

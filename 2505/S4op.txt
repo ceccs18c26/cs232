@@ -1,0 +1,9 @@
+Currently Logged User and their login name: jalena
+Current Shell : /bin/bash
+Home Directory: /home/jalena
+Operating System Type: linux-gnu
+Current Path Setting: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Current Working Directory:
+/home/jalena/FOSS/2505
+Number of users currently logged in:
+jalena
